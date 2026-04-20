@@ -5,8 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<!---
-Ariuka0/Ariuka0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+js ENJOYER LLK

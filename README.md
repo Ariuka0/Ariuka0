@@ -44,7 +44,7 @@
 - 🇮🇹 Learning Italian
 - 🔐 Solving CTF challenges
 - 🌐 Building web applications
-
----
-
+- 🟢 **NVIDIA Developer Program** member — access to NIM API & AI tools 
+                     
+  ---
 *📍 Ulaanbaatar, Mongolia — open to opportunities in Italy*

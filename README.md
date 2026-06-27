@@ -21,7 +21,7 @@
 - 🌐 **Full-stack web development** — Next.js · Supabase · Vercel · HTML/CSS/JS
 - 🛡️ **Cybersecurity & CTF challenges** — Cryptography · Steganography · Web exploitation
 - 🎓 **Self-taught developer** from Ulaanbaatar, learning through real-world projects
-- 🗣️ **Language learning** — English (IELTS B1→B2) · Italian (beginner)
+- 🗣️ **Language learning** — English (IELTS B2→C2) · Italian (beginner)
 
 ---
 
